@@ -39,36 +39,50 @@ Full Stack Web Engineer 🚀 | Expert in JavaScript, React.js, React Native, Nex
 </div>
 
 ---
-## 👨‍💻 About Me
+<p align="center">
 
-<table align="center">
+<table cellpadding="0", cellspacing="0" border=none>
 <tr>
-<td align="left" width="50%" style="border: none;">
+<td width="60%" align="left">
 
-- 🔭 Working with React & Next.js  
-- 🌱 Learning advanced frontend  
-- 💬 Ask me about React, Tailwind  
-- ⚡ Goal: Build modern web apps  
+## 💬 Talking about Personal Stuff:
+
+- 🚀 Working with HTML5, CSS3, JS, React, Next, Express, Node.js, MongoDB, Tailwind CSS  
+- 🌱 Learning Next.js & Advanced Backend  
+- 📫 Reach me out:- mraselKhalifa@gmail.com  
+
+## ❤️ Favorites:
+- 💡 I love exploring new technologies and building cool stuff
+- 🎯 Clean UI & modern web apps
 
 </td>
 
-<td align="center" width="50%" style="border: none;">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
+<td width="40%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 </td>
+
 </tr>
 </table>
----
 
-## 🚀 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css,git" />
 </p>
 
+
 ---
 
-## 📈 GitHub Stats
+## <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rasel-khalipha&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,next,nodejs,express,mongodb,tailwind,figma,git,github" />
 </p>
+
+---
+
+```JavaScript
+const mdRasel = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Next.js", "Node.js", "Express.js", "MongoDB", "Figma"],
+  architecture: ["MVC", "REST API", "Full Stack Development"],
+  currentFocus: "Building modern web applications",
+  Challenge: "Improving skills with real-world projects 🚀"
+};
